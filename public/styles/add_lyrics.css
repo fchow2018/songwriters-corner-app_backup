@@ -1,0 +1,62 @@
+h2 {
+  margin-top: 2em;
+  margin-bottom: 4em;
+  text-align: center;
+}
+
+.col-form-label {
+  margin-left: 22em;
+  margin-bottom: 2em;
+}
+
+.form-control {
+  margin-top: -4.5em;
+}
+.form-group {
+  margin-left: 10em;
+}
+
+#tags {
+  margin-top: -4.5em;
+  margin-left: 30em;
+  width: 40%;
+}
+
+.form-control-sm{
+  margin-left: 34.3em;
+  width: 8%;
+}
+
+#song_title {
+  margin-top: -4.5em;
+  margin-left: 30em;
+  width: 40%;
+}
+
+#lyrics {
+  margin-left: 31em;
+  width: 32.8%;
+}
+
+select {
+  margin-top: -2em;
+  margin-left: 31em;
+}
+
+#publish {
+  margin-left: 41em;
+  padding-right: 30.3em;
+  /* padding: 0px; */
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #FF4900;
+}
+
+#dashboard {
+  font-size: 20px;
+  color: black;
+}
+
+#dashboard:hover {
+  color: #FF4900;
+}
